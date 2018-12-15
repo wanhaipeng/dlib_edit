@@ -41,3 +41,9 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+/.vs
+/debug
+/Win32/Debug
+/dlib_edit.vcxproj.user
+/dlib_edit.vcxproj.filters
+/dlib_edit.vcxproj
