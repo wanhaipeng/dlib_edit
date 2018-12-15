@@ -43,8 +43,11 @@ target_wrapper.*
 CMakeLists.txt.user*
 /.vs
 /debug
+/release
 /Win32/Debug
+/Win32/Release
 /dlib_edit.vcxproj.user
 /dlib_edit.vcxproj.filters
 /dlib_edit.vcxproj
 /dlib_edit.sln
+/_ReSharper.Caches/ReSharperPlatformVs15182_f91c07c5.dlib_edit.00
